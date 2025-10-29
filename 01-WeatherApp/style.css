@@ -93,3 +93,7 @@ body {
 .wind {
   font-size: 28px;
 }
+
+.weather {
+  display: None;
+}
